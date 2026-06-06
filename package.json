@@ -1,0 +1,21 @@
+{
+  "name": "tiny-local-kanban",
+  "version": "0.1.0",
+  "description": "A tiny local-first kanban board that exports Markdown.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "developer-tools",
+    "ai",
+    "cli",
+    "github"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
